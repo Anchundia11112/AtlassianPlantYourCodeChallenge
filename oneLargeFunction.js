@@ -71,6 +71,3 @@ function grid(seedCount) {
 
     return value[0]
 }
-
-seedCount = 44
-console.log(grid(seedCount))
